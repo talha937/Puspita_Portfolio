@@ -6,8 +6,8 @@ export const portfolioData = {
     title: "Senior Backend Developer | ML Engineer | Cybersecurity Specialist",
     tagline: "Building scalable systems that power the next generation of financial technology",
     email: "puspita@example.com",
-    location: "San Francisco, CA",
-    phoneCode: "+1",
+    location: "Narayanganj, Bangladesh",
+    phoneCode: "+880",
     phone: "123-456-7890",
     bio: "Senior engineer with 8+ years of experience architecting high-performance distributed systems for FAANG and financial institutions. Specialized in building low-latency trading platforms, ML pipelines, and secure infrastructure at scale. Led teams that processed $10B+ in daily transactions with 99.99% uptime.",
     profileImage: "/profile.jpg", // Place your image in public folder
@@ -39,8 +39,8 @@ export const portfolioData = {
       }
     },
     stats: [
-      { value: "8+", label: "Years Experience" },
-      { value: "50+", label: "Projects Delivered" },
+      { value: "2+", label: "Years Experience" },
+      { value: "2+", label: "Projects Delivered" },
       { value: "99.99%", label: "Uptime SLA" },
       { value: "$10B+", label: "Daily Transactions" }
     ]
@@ -122,17 +122,17 @@ export const portfolioData = {
   education: [
     {
       id: 1,
-      institution: "Stanford University",
-      degree: "Master of Science",
+      institution: "Daffodil Institute of IT",
+      degree: "Bachelor of Science in Computer Science and Engineering",
       field: "Computer Science (Specialization: AI/ML)",
-      location: "Stanford, CA",
-      startDate: "2014",
-      endDate: "2016",
-      gpa: "3.9/4.0",
+      location: "Dhaka, Bangladesh",
+      startDate: "2024",
+      endDate: "2029",
+      Cgpa: "3.20/4.0",
       achievements: [
         "Research on distributed deep learning published in NeurIPS 2015",
         "Teaching Assistant for CS229 (Machine Learning)",
-        "Winner of Stanford TreeHacks 2015"
+        "Winner of Daffodil Hackathon 2015"
       ]
     },
     {
