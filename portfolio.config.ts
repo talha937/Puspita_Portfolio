@@ -128,26 +128,11 @@ export const portfolioData = {
       location: "Dhaka, Bangladesh",
       startDate: "2024",
       endDate: "2029",
-      Cgpa: "3.20/4.0",
+      gpa: "3.20/4.0",
       achievements: [
         "Research on distributed deep learning published in NeurIPS 2015",
         "Teaching Assistant for CS229 (Machine Learning)",
         "Winner of Daffodil Hackathon 2015"
-      ]
-    },
-    {
-      id: 2,
-      institution: "Massachusetts Institute of Technology",
-      degree: "Bachelor of Science",
-      field: "Computer Science & Engineering",
-      location: "Cambridge, MA",
-      startDate: "2010",
-      endDate: "2014",
-      gpa: "3.8/4.0",
-      achievements: [
-        "Dean's List all semesters",
-        "Undergraduate researcher in CSAIL lab",
-        "President of MIT Tech Club"
       ]
     }
   ],
